@@ -77,7 +77,7 @@ markdown_extensions:
 
 
 plugins:
-  - search
+ # - search
   - git-revision-date
   - awesome-pages:
       collapse_single_pages: false
@@ -90,10 +90,6 @@ extra:
     - icon: fontawesome/solid/paper-plane
       link: mailto:gilles.lassus@ac-bordeaux.fr
       name: Écrire à l'auteur
-
-    - icon: fontawesome/brands/github
-      link: https://github.com/glassus/formation_snt
-      name: Dépôt git
 
 #    - icon: fontawesome/solid/university
  #     link: https://lyceemauriac.fr
@@ -111,7 +107,3 @@ extra_css:
 
 
 copyright:  CC BY-SA / G.Lassus
-
-repo_url: https://github.com/glassus/formation_snt
-
-repo_name: glassus/formation_snt
