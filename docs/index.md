@@ -1,5 +1,5 @@
-## Thèmes en cours d'étude : 
+## Ressources disponibles : 
 
-- en module : [Métadonnées EXIF](./Theme2_Localisation_Cartographie/Activité2_Exif/)  
-- en classe entière : [Localisation et cartographie](./Theme2_Localisation_Cartographie/cours/)  
-
+- [Cours de Terminale NSI](https://glassus.github.io/terminale_nsi)  
+- [Cours de Première NSI](https://glassus.github.io/premiere_nsi)
+- [Cours de Seconde SNT](https://glassus.github.io/snt)  
