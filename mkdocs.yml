@@ -1,4 +1,4 @@
-site_name: "Formation SNT - Janvier 2022 - Lycée François Mauriac"
+site_name: "NSI / SNT - Lycée François Mauriac"
 
 #nav:
 #  - 'accueil' : 'index.md'
@@ -95,9 +95,9 @@ extra:
       link: https://github.com/glassus/formation_snt
       name: Dépôt git
 
-    - icon: fontawesome/solid/university
-      link: https://lyceemauriac.fr
-      name: Lycée François Mauriac - Bordeaux
+#    - icon: fontawesome/solid/university
+ #     link: https://lyceemauriac.fr
+ #     name: Lycée François Mauriac - Bordeaux
 
 extra_javascript:
   - xtra/javascripts/interpreter.js
